@@ -1,4 +1,4 @@
-<h3>광주_3반_김찬송, https://github.com/kimchansong/elice_git/blob/master/README.md</h3>
+<h3>광주_3반_김찬송, https://github.com/kimchansong/elice_git</h3>
 
 <h5>I. 스펙(Specification)</h5>
 1) 순위 검색 기능 :
