@@ -1,5 +1,5 @@
 <h3>광주_3반_김찬송, https://github.com/kimchansong/elice_git</h3>
-
+<h3>블로그 주소 : https://cocobino.github.io/pagodot/</h3>
 <h5>I. 스펙(Specification)</h5>
 1) 순위 검색 기능 :
 음악순위, 국내 축구순위, 농구순위, 야구순위를 입력 했을 때 순위를 표시해 준다.
